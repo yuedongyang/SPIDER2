@@ -1,0 +1,13 @@
+#
+By given protein sequences in fasta format, you can run command
+> run_local.sh *.seq
+to obtain predicted secondary structure, ASA, backbone torsion angles.
+##
+If you already have pssm files for your proteins.
+> run_pssm.py *.pssm
+The output will be seen in *.spd3
+
+Reference:
+Lyons, James; Dehzangi, Abdollah; Heffernan, Rhys; Sharma, Alok; Paliwal, Kuldip; Sattar, Abdul; Yang, Yuedong; Zhou, Yaoqi. Improving prediction of secondary structure, local backbone angles, and solvent accessible surface area of proteins by iterative deep learning. (Submitted) 
+
+If you have any questions, please email to yuedong.yang@gmail.com
