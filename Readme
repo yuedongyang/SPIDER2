@@ -8,6 +8,7 @@ If you already have pssm files for your proteins.
 The output will be seen in *.spd3
 
 Reference:
-Lyons, James; Dehzangi, Abdollah; Heffernan, Rhys; Sharma, Alok; Paliwal, Kuldip; Sattar, Abdul; Yang, Yuedong; Zhou, Yaoqi. Improving prediction of secondary structure, local backbone angles, and solvent accessible surface area of proteins by iterative deep learning. (Submitted) 
+1.	R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Yuedong Yang* and Y. Zhou*. Improving prediction of secondary structure, local backbone angles, and solvent accessible surface area of proteins by iterative deep learning. Scientific Reports 2015; 5:11476  
+2. R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Y. Zhou* and Yuedong Yang*. Highly accurate sequence-based prediction of half-sphere exposures of amino acid residues in proteins. Bioinformatics 2016; 32(6):843-9.
 
 If you have any questions, please email to yuedong.yang@gmail.com
