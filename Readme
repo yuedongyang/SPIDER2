@@ -1,14 +1,53 @@
-#
-By given protein sequences in fasta format, you can run command
-> run_local.sh *.seq
-to obtain predicted secondary structure, ASA, backbone torsion angles.
-##
-If you already have pssm files for your proteins.
-> run_pssm.py *.pssm
-The output will be seen in *.spd3
+# SPROF: Improving Protein Sequence Profiles Prediction by Using Two-Dimensional Distance Map and Coupling Self-Attentional Convolution Neural Networks with Bidirectional Long Short-Term Memory
 
-Reference:
-1.	R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Yuedong Yang* and Y. Zhou*. Improving prediction of secondary structure, local backbone angles, and solvent accessible surface area of proteins by iterative deep learning. Scientific Reports 2015; 5:11476  
-2. R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Y. Zhou* and Yuedong Yang*. Highly accurate sequence-based prediction of half-sphere exposures of amino acid residues in proteins. Bioinformatics 2016; 32(6):843-9.
+## Getting Start
+These instructions will get you a copy of the project up and running on your local machine.
 
-If you have any questions, please email to yuedong.yang@gmail.com
+### Environment
+
+SPROF has been implemented in `Python3`.
+
+### Requirements
+Installing requirements:  
+```
+pip3 install -r requirements.txt
+```
+
+or avoiding problems in multiple Python environments:  
+
+```
+python3 -m pip install -r requirements.txt
+```
+
+## Training
+
+### Command line:  
+```
+    
+```
+
+### Start Training: 
+
+
+### Output:
+* model:  
+* parameters:  
+## Evaluation
+### Command line:  
+### Usage:
+* Single models  
+* Consensus model
+## Testing
+### Input file 
+### Usage  
+
+* Command line:  
+
+* Run:  
+## Cite
+If you find this work useful in your research, please consider citing the paper:  
+**"Improving Protein Sequence Profiles Prediction by Using Two-Dimensional Distance Map and Coupling Self-Attentional Convolution Neural Networks with Bidirectional Long Short-Term Memory"**
+
+
+## Contact
+`yuedong.yang@gmail.com`, `raojh6@mail2.sysu.edu.cn`  or `keyaobin@mail2.sysu.edu.cn`
